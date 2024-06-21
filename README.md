@@ -58,7 +58,7 @@ The performance of the model is evaluated using metrics such as accuracy, precis
 - Data augmentation techniques to enhance model generalization.
 
 ## Author
-- [Your Name]
+- Srijan Singh
 
 ## References
 - [TensorFlow Documentation](https://www.tensorflow.org/)
