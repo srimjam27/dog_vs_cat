@@ -66,5 +66,3 @@ The performance of the model is evaluated using metrics such as accuracy, precis
 - [OpenCV Documentation](https://docs.opencv.org/)
 
 ---
-
-This README file provides a structured overview of your Dog vs Cat Image Classifier project, focusing on the model architecture, training process, evaluation metrics, and potential future improvements. Adjust the sections and details as per your specific project implementation and requirements.
